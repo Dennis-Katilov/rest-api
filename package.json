@@ -7,7 +7,7 @@
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
-  "author": "Dennis Katilov",
+  "author": "Dennis K",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
